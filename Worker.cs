@@ -16,7 +16,7 @@ class Worker
 
             channel.BasicQos(prefetchSize: 0, prefetchCount: 1, global: false);
 
-            Console.WriteLine(" [*] Waiting for messages.");
+            Console.WriteLine(" [*] Waiting for messages..");
 
             var consumer = new EventingBasicConsumer(channel);
             consumer.Received += (model, ea) =>
