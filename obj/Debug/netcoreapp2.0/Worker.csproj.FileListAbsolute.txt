@@ -8,3 +8,4 @@ C:\git\rabbitmq\Worker\obj\Debug\netcoreapp2.0\Worker.AssemblyInfoInputs.cache
 C:\git\rabbitmq\Worker\obj\Debug\netcoreapp2.0\Worker.AssemblyInfo.cs
 C:\git\rabbitmq\Worker\obj\Debug\netcoreapp2.0\Worker.dll
 C:\git\rabbitmq\Worker\obj\Debug\netcoreapp2.0\Worker.pdb
+C:\git\rabbitmq\Worker\bin\Debug\netcoreapp2.0\AppSettings.json
